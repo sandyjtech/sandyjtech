@@ -1,6 +1,6 @@
 ### Hello there I'm Sandra Gonzalez👋
 
-##Proud web/server nerd! 🤓
+## Proud web/server nerd! 🤓
 
 <!--
 **sandyjtech/sandyjtech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
