@@ -5,8 +5,7 @@
 <!--
 **sandyjtech/sandyjtech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
+-->
 - 🔭I am currently developing a confidential application for a client that has the potential to change the world.
 - 🌱 "I am currently learning Data Science to improve my coding skills.👯"
 - 🤔 "I am looking for a permanent position as a full-stack developer."
@@ -14,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: https://www.linkedin.com/in/sandra--gonzalez/...
 - 😄 Pronouns: she/her...
 - ⚡ Fun Fact: "I worked on cruise ships for five years."
--->
+
