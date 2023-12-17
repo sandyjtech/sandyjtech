@@ -1,6 +1,6 @@
 ### Hello there I'm Sandra Gonzalez👋
 
-## Proud web/server nerd! 🤓
+# Proud web/server nerd! 🤓
 
 <!--
 **sandyjtech/sandyjtech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@
 - 😄 Pronouns: she/her...
 - ⚡ Fun Fact: "I worked on cruise ships for five years."
 
+## Check out some of my projects:
+- name [Link Text](http://example.com)
+[![Demo Video](http://img.youtube.com/vi/abc123/0.jpg)](http://www.youtube.com/watch?v=abc123)
+
+## Languages and Tools:
+<i class="fab fa-html5"></i> <i class="fab fa-css3"></i> <i class="fab fa-js"></i>
+
+## Contact me:
+<i class="fab fa-html5"></i> <i class="fab fa-css3"></i> <i class="fab fa-js"></i>
