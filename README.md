@@ -24,10 +24,10 @@
 - [NFLeague](https://github.com/sandyjtech/fleague)
 - [My Portfolio](https://github.com/sandyjtech/sandra-gonzalez)
 # Collaborations
-- [Badreads](https://github.com/sandyjtech/badreads)
+- [Badreads](https://sandyjtech.github.io/badreads/)
 - [My Sous Chef](https://github.com/sandyjtech/my-sous-chef)
 - Netflix Replica [MYFLIX](https://sandyjime21.github.io/MYFLIX/)
-- Candy Crush Replica[Candy Shop](https://sandyjime21.github.io/Candy-Shop/)(https://sandyjtech.github.io/badreads/)
+- Candy Crush Replica[Candy Shop](https://sandyjime21.github.io/Candy-Shop/)
 [![Demo Video](http://img.youtube.com/vi/abc123/0.jpg)](http://www.youtube.com/watch?v=abc123)
 
 ## Languages and Tools:
