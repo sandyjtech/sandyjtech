@@ -9,7 +9,7 @@
 -->
 - 🔭I am currently developing [NFLeague](https://github.com/sandyjtech/fleague).
 
-- 🌱 "I am currently learning Data Science to improve my coding skills.👯"
+- 🌱 "I am currently learning Microservices.👯"
 
 - 🤔 "I am looking for a permanent position as a full-stack developer."
 
