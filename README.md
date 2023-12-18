@@ -1,6 +1,7 @@
 ### Hello there I'm Sandra Gonzalez👋
 
 # Proud web/server nerd! 🤓
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" integrity="sha512-xxxxxxx" crossorigin="anonymous" referrerpolicy="no-referrer" />
 
 <!--
 **sandyjtech/sandyjtech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -33,7 +34,9 @@
 - [Franco Cleaning](https://sandyjime21.github.io/Franco-Cleaning/)
 
 ## Languages and Tools:
-(https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png)
+:rocket: This is a rocket icon
+:computer: This is a computer icon
+:octocat: This is an Octocat icon
 
 ## Contact me:
 <i class="fab fa-html5"></i> <i class="fab fa-css3"></i> <i class="fab fa-js"></i>
