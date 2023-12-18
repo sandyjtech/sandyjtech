@@ -34,7 +34,7 @@
 - [Franco Cleaning](https://sandyjime21.github.io/Franco-Cleaning/)
 
 ## Languages and Tools:
-![Rocket](https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png)
+[html](https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png)
 
 ## Contact me:
 <i class="fab fa-html5"></i> <i class="fab fa-css3"></i> <i class="fab fa-js"></i>
