@@ -15,7 +15,7 @@
 
 - 💬 "I love making new connections."
 
-- 😄 Pronouns: she/her...
+- 😄 Pronouns: she/her.
 
 - ⚡ Fun Fact: "I worked on cruise ships for five years."
 
