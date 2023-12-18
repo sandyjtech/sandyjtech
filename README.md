@@ -23,12 +23,14 @@
 ## Check out some of my projects:
 - [NFLeague](https://github.com/sandyjtech/fleague)
 - [My Portfolio](https://github.com/sandyjtech/sandra-gonzalez)
-# Collaborations
+### Collaborations
 - [Badreads](https://sandyjtech.github.io/badreads/)
 - [My Sous Chef](https://github.com/sandyjtech/my-sous-chef)
-- Netflix Replica [MYFLIX](https://sandyjime21.github.io/MYFLIX/)
-- Candy Crush Replica[Candy Shop](https://sandyjime21.github.io/Candy-Shop/)
-[![Demo Video](http://img.youtube.com/vi/abc123/0.jpg)](http://www.youtube.com/watch?v=abc123)
+- [MYFLIX](https://sandyjime21.github.io/MYFLIX/)
+- [Candy Shop](https://sandyjime21.github.io/Candy-Shop/)
+- [Sabdy Fitness App](https://sabdyfitness.com/)
+- [Pianito](https://sandyjime21.github.io/Pianito/)
+- [Franco Cleaning](https://sandyjime21.github.io/Franco-Cleaning/)
 
 ## Languages and Tools:
 <i class="fab fa-html5"></i> <i class="fab fa-css3"></i> <i class="fab fa-js"></i>
