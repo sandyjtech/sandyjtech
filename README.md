@@ -1,7 +1,7 @@
 ### Hello there I'm Sandra Gonzalez👋
 
 # Proud web/server nerd! 🤓
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" integrity="sha512-xxxxxxx" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
 
 <!--
 **sandyjtech/sandyjtech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
