@@ -13,7 +13,7 @@
 
 - 🤔 "I am looking for a permanent position as a full-stack developer."
 
-- 💬 "I love making new connections and learning about anything."
+- 💬 "I love making new connections."
 
 - 😄 Pronouns: she/her...
 
