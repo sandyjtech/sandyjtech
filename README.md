@@ -33,7 +33,7 @@
 - [Franco Cleaning](https://sandyjime21.github.io/Franco-Cleaning/)
 
 ## Languages and Tools:
-<i class="fab fa-html5"></i> <i class="fab fa-css3"></i> <i class="fab fa-js"></i>
+(https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png)
 
 ## Contact me:
 <i class="fab fa-html5"></i> <i class="fab fa-css3"></i> <i class="fab fa-js"></i>
