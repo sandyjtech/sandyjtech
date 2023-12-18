@@ -34,6 +34,6 @@
 - [Franco Cleaning](https://sandyjime21.github.io/Franco-Cleaning/)
 
 ## Languages and Tools:
-![HTML](https://icons8.com/icon/20909/html-5)
+![HTML](https://img.icons8.com/?size=48&id=20909&format=png))
 ## Contact me:
 <i class="fab fa-html5"></i> <i class="fab fa-css3"></i> <i class="fab fa-js"></i>
