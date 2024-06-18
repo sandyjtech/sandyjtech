@@ -11,7 +11,7 @@
 
 - 🌱 "I am currently learning Microservices.👯"
 
-- 🤔 "I am looking for a permanent position as a full-stack developer."
+- 🤔 "I am a full-stack developer."
 
 - 💬 "I love making new connections."
 
